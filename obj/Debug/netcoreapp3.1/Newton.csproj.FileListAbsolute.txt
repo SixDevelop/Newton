@@ -1,0 +1,12 @@
+/Users/sergey/Documents/GitHub/Newton/bin/Debug/netcoreapp3.1/Newton.deps.json
+/Users/sergey/Documents/GitHub/Newton/bin/Debug/netcoreapp3.1/Newton.runtimeconfig.json
+/Users/sergey/Documents/GitHub/Newton/bin/Debug/netcoreapp3.1/Newton.runtimeconfig.dev.json
+/Users/sergey/Documents/GitHub/Newton/bin/Debug/netcoreapp3.1/Newton.dll
+/Users/sergey/Documents/GitHub/Newton/bin/Debug/netcoreapp3.1/Newton.pdb
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.csprojAssemblyReference.cache
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.csproj.CoreCompileInputs.cache
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.AssemblyInfoInputs.cache
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.AssemblyInfo.cs
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.dll
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.pdb
+/Users/sergey/Documents/GitHub/Newton/obj/Debug/netcoreapp3.1/Newton.genruntimeconfig.cache
